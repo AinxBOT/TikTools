@@ -205,7 +205,7 @@ def menu():
         if pilih in ["01","1"]:
            url = input(f"{P}Post link : {RGB}")
            dump = login.getpostid(data_panel,url)
-           print(f"{RGB}>> {W}Get data post {RGB}<<\n>> {W}From   : {RGB}{dump['author']}\n>> {W}UID    : {RGB}{dump['uid']}\n>> {W}PostID : {RGB}{dump['pid']}\n>> {W}Current views : {RGB}{dump['views']}")
+           print(f"{RGB}>> {W}Get data post {RGB}<<\n>> {W}From     : {RGB}{dump['author']}\n>> {W}Username : {RGB}{dump['uid']}\n>> {W}PostID   : {RGB}{dump['pid']}\n>> {W}Current views : {RGB}{dump['views']}")
            last_views = dump["views"]
            print(f"{F}CTRL C for stop")
            baris()
@@ -218,7 +218,7 @@ def menu():
            baris()
            url = input(f"{P}Post link : {RGB}")
            dump = login.getpostid(data_panel,url)
-           print(f"{RGB}>> {W}Get data post {RGB}<<\n>> {W}From   : {RGB}{dump['author']}\n>> {W}UID    : {RGB}{dump['uid']}\n>> {W}PostID : {RGB}{dump['pid']}\n>> {W}Current likes : {RGB}{dump['like']}")
+           print(f"{RGB}>> {W}Get data post {RGB}<<\n>> {W}From     : {RGB}{dump['author']}\n>> {W}Username : {RGB}{dump['uid']}\n>> {W}PostID   : {RGB}{dump['pid']}\n>> {W}Current likes : {RGB}{dump['like']}")
            last_likes = dump["like"]
            print(f"{F}CTRL C for stop")
            baris()
