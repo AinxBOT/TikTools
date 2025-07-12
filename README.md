@@ -34,6 +34,11 @@ cd TikTools
 pip install -r requirements.txt
 python run.py
 ```
+## Get cookies
+http canary : https://sfl.gl/EYQuhZuJ
+## Termux fdroid
+https://f-droid.org/id/packages/com.termux/
+
 ## ⚠️ Disclaimer
 
 This tool is for educational and testing purposes only.
