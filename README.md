@@ -6,20 +6,10 @@ Created just for fun and educational purposes — not for abuse or spamming.
 ---
 
 ## 📸 Result Preview
-
-### ✅ Auto Views
-![Image](https://github.com/user-attachments/assets/723c7335-a99d-45cf-b217-e64f959b70ab)
-![Image](https://github.com/user-attachments/assets/ee9ae71e-ffc1-4eb2-9a98-2528cacb57de)
-
----
-
-### ❤️ Auto Likes
-![Image](https://github.com/user-attachments/assets/25d2cb0d-12af-4bbf-828e-cbb85aab1c3b)
+![Image](https://github.com/user-attachments/assets/cdcca156-1dd9-43aa-82bf-d5be8cb911f5)
 
 > ⚠️ **Note**: Auto likes may not appear instantly.  
 > It could take a few hours — sometimes even a full day — before likes are visible on your post.
-
-![Image](https://github.com/user-attachments/assets/2db4a5c2-1aeb-4e04-9025-f76688d854f4)
 
 ---
 
