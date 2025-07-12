@@ -12,6 +12,8 @@ Created just for fun and educational purposes — not for abuse or spamming.
 > It could take a few hours — sometimes even a full day — before likes are visible on your post.
 
 ---
+## Youtube previews
+https://youtu.be/BbiW6oNm1kU
 
 ## 💡 Features
 
