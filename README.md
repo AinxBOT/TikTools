@@ -26,9 +26,9 @@ https://youtu.be/BbiW6oNm1kU
 
 ## 💡 Features
 
-- Auto views (fast response)
+- Auto views
 
-- Auto likes (delayed but works)
+- Auto likes
 
 - Earning credit
 
