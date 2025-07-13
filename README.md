@@ -11,6 +11,15 @@ Created just for fun and educational purposes — not for abuse or spamming.
 > ⚠️ **Note**: Auto likes may not appear instantly.  
 > It could take a few hours — sometimes even a full day — before likes are visible on your post.
 
+>If you don't see a "Success add views/likes" result,
+or if there is no update in views/likes count,
+don't worry — the views/likes will still be delivered within a few hours,
+sometimes even up to a day.
+Please understand that this is a free tool 😊
+
+>Only use post links from TikTok Mobile/Lite app,
+such as: vm.tiktok.com/... or vt.tiktok.com/...
+
 ---
 ## Youtube previews
 https://youtu.be/BbiW6oNm1kU
