@@ -224,7 +224,7 @@ def menu():
     while True:
         banner()
         dummyinfo()
-        print(f"{RGB}01). {W}Add views\n{RGB}02). {W}Add likes\n{RGB}03). {W}Earn credits\n{RGB}00). {W}Exit")
+        print(f"{RGB}01). {W}Add views\n{RGB}02). {W}Add likes\n{RGB}03). {W}Earn credits\n{RGB}04). {W}Update cookies\n{RGB}00). {W}Exit")
         pilih = input(f"{P} >> {RGB}")
         baris()
         if pilih in ["01","1"]:
@@ -262,6 +262,14 @@ def menu():
               info.mycredit(data_panel)
            baris()
            break
+        elif pilih in ["04","4"]:
+           print(f"{F}Please take another new cookies,using http canary.")
+           os.system("rm cookies.txt")
+           os.system("rm authorization.txt")
+           kukis = input(f"{P}New cookies : {RGB}")
+           with open("cookies.txt","w") as kuki:
+                kuki.write(kukis)
+           exit(f"{D}Cookies updated\n{F}Run again program")
         elif pilih in ["00","0"]:
               exit(f"{F}Byee bro, dont forget sub my channel(^‿^)")
         else:
